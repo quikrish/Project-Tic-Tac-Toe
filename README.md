@@ -21,9 +21,7 @@ A simple Tic Tac Toe game built using JavaScript, HTML, and CSS. This project de
   - [Gameboard Module](#gameboard-module)
   - [Player Factory](#player-factory)
   - [GameController Module](#gamecontroller-module)
-- [Setup and Usage](#setup-and-usage)
-- [Screenshots](#screenshots)
-- [License](#license)
+- DEMO
 
 ## How to Play
 
@@ -72,5 +70,5 @@ The board is dynamically re-rendered after each move:
 - Loops through the current state and updates cells based on their values.
 - Attaches click event listeners to each cell for player interaction.
 
-### DEMO
-
+## DEMO
+https://quikrish.github.io/Project-Tic-Tac-Toe/
